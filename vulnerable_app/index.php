@@ -65,7 +65,7 @@ session_start();
     </div>
 
     <p class="footer-note">
-      Lab 5 &nbsp;|&nbsp; Group 5 &nbsp;|&nbsp; Vulnerable App
+      Lab 5 &nbsp;|&nbsp; Group 6 &nbsp;|&nbsp; Vulnerable App
       &nbsp;|&nbsp; <a href="attacks.php" style="color:var(--accent);text-decoration:none;">⚡ Attack Demo Panel →</a>
     </p>
   </div>

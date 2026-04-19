@@ -264,7 +264,7 @@ session_start();
 
     </div>
 
-    <p class="footer-note">Lab 5 &nbsp;|&nbsp; Group 5 &nbsp;|&nbsp; Secure App</p>
+    <p class="footer-note">Lab 5 &nbsp;|&nbsp; Group 6 &nbsp;|&nbsp; Secure App</p>
   </div>
 
 </body>
