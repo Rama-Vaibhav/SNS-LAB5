@@ -125,7 +125,7 @@ Before running this project, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Rama-Vaibhav/SNS-LAB5.git
-cd SNS-LAB5
+cd A5 SNS
 ```
 
 ---
