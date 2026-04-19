@@ -1,8 +1,8 @@
 <?php
 // Secure App – Database Connection
-// Lab 5 | Group 5
+// Lab 5 | Group 6
 
-$host   = "localhost";
+$host = "localhost";
 $dbuser = "root";
 $dbpass = "";       // XAMPP default; change in production
 $dbname = "lab5";

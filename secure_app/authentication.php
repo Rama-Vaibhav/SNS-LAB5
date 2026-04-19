@@ -1,6 +1,6 @@
 <?php
 // Secure App – Authentication Handler
-// Lab 5 | Group 5
+// Lab 5 | Group 6
 //
 // SECURITY FIXES APPLIED:
 //  1. Prepared statements (parameterised queries) — prevents SQL Injection

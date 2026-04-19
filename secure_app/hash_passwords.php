@@ -1,6 +1,6 @@
 <?php
 // Secure App – Password Hashing Helper (run ONCE, then delete this file)
-// Lab 5 | Group 5
+// Lab 5 | Group 6
 //
 // PURPOSE:
 //   The lab5 database stores passwords as plaintext (pass1, admin123).
@@ -22,7 +22,7 @@ $users = [
 ];
 
 $updated = 0;
-$errors  = [];
+$errors = [];
 
 foreach ($users as $username => $plaintext) {
     $hash = password_hash($plaintext, PASSWORD_DEFAULT);   // bcrypt
@@ -43,7 +43,8 @@ foreach ($users as $username => $plaintext) {
 echo "<hr>";
 echo "<b>Done.</b> $updated password(s) hashed.<br>";
 if ($errors) {
-    foreach ($errors as $e) echo "⚠ $e<br>";
+    foreach ($errors as $e)
+        echo "⚠ $e<br>";
 }
 echo "<br><b style='color:red'>⚠ DELETE this file now! (hash_passwords.php)</b>";
 
