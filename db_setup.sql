@@ -1,5 +1,5 @@
 -- ============================================================
--- Lab 5 | Group 6 — Database Setup Script
+-- Lab 5 | Group 6— Database Setup Script
 -- ============================================================
 -- HOW TO USE:
 --   Option A: phpMyAdmin → Import tab → Select this file → Go

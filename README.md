@@ -2,7 +2,7 @@
 
 > **Course:** System and Network Security (CS5.470) — Lab Assignment 5  
 > **Institution:** International Institute of Information Technology, Hyderabad  
-> **Group:** 5
+> **Group:** 6
 
 ---
 
